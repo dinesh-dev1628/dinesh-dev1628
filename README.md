@@ -6,27 +6,6 @@ I build **production-grade automation systems** that reduce manual work and impr
 
 ---
 
-## 🔧 Tech Skills
-
-### 🐍 Backend & Automation
-
-* **Python** – Core automation logic, async workflows
-* **Playwright** – Reliable browser automation for real-world systems
-* **FastAPI** – APIs to trigger, manage, and monitor automation
-
-### 🌐 Frontend
-
-* **React**
-* **Next.js** – Frontend apps for automation dashboards & tools
-
-### 🧪 Tools & DevOps
-
-* **Postman** – API testing & validation
-* **Docker** – Containerizing automation services
-* **Git & GitHub** – Version control & collaboration
-
----
-
 ## 🚀 What I Work On
 
 * Production automation (not test automation)
