@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Dinesh 👋
 
-<!--
-**dinesh-dev1628/dinesh-dev1628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Automation Engineer
 
-Here are some ideas to get you started:
+I build **production-grade automation systems** that reduce manual work and improve operational efficiency. My focus is on **end-to-end automation**, combining backend logic, browser automation, and frontend tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Skills
+
+### 🐍 Backend & Automation
+
+* **Python** – Core automation logic, async workflows
+* **Playwright** – Reliable browser automation for real-world systems
+* **FastAPI** – APIs to trigger, manage, and monitor automation
+
+### 🌐 Frontend
+
+* **React**
+* **Next.js** – Frontend apps for automation dashboards & tools
+
+### 🧪 Tools & DevOps
+
+* **Postman** – API testing & validation
+* **Docker** – Containerizing automation services
+* **Git & GitHub** – Version control & collaboration
+
+---
+
+## 🚀 What I Work On
+
+* Production automation (not test automation)
+* Internal tools & dashboards for automation
+* Workflow optimization & manual effort reduction
+* Full-stack automation platforms
+
+---
+
+## 🎯 Philosophy
+
+> Treat automation like real software — reliable, maintainable, and scalable.
+
+---
+
+📫 Feel free to explore my repositories and connect!
